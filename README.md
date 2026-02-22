@@ -1,6 +1,6 @@
 # College Complaint Web App
 
-<img src="./public/login.png" alt="logo" width=200 height=200>
+<img src="./public/logo.png" alt="logo" width=200 height=200>
 
 
 > A Web-Based  Complaint System used for paperless quick response system with fast approval of leave and fast action on the complaint done by student.
